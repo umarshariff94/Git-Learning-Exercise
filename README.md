@@ -1,8 +1,2 @@
-meg
-HI Sonika 
-This is Meghana
-# Git-Learning-Exercise
 
-
-Sharath
-main
+Hii sonika i am yashwanth
