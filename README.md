@@ -1,11 +1,6 @@
-meg
 HI Sonika 
 This is Meghana
-# Git-Learning-Exercise
-
-
 Sharath
-main
-
-
 Manoj 
+Athiq
+Chetan
